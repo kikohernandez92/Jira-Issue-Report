@@ -69,6 +69,6 @@ Customer detected the failure and alerted thorugh JIRA (Issue: AESEDI-53447)
 | 12:04 | File is sent correctly, according to AES EDI logs |
 | 12:10 | Reloading AES CIS service and log analysis returned failure to process the data |
 | 12:20 | **Investigation ends** |
-| 12:57 | Resending records' file |
+| 12:37 | Resending records' file |
 | 13:00 | Records correctly processed |
 
